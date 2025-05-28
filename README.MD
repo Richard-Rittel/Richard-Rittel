@@ -62,7 +62,7 @@ Ich bin immer offen für spannende und produktive Gespräche, Projektzusammenarb
 
 👀 Ich interessiere mich für Datenanalyse und Datenvisualisierung sowie Prozessoptimierung.
 
-🌱 Ich lerne derzeit Machine Learning, KI und fortgeschrittene statistische Methoden.
+🌱 Nichts tun ist Stillstand und daher bilde ich mich derzeit Machine Learning, KI und fortgeschrittene statistische Methoden, sowie allem was mit Datenanalyse zu tun hat,  weiter.
 
 💞️ Ich suche nach Möglichkeiten zur Zusammenarbeit an datengetriebenen Projekten.
 
