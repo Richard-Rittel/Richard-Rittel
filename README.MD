@@ -1,4 +1,4 @@
-IHK-zertifizierter Data Analyst | Data Scientist.
+IHK zertifizierter Data Analyst | Data Scientist | Datenanalyst.
 Daten sind die Zukunft... | 📊 Datenanalyse | 🐍Python | 🛠️SQL | 📈 Power BI | 🔗 Messer | 💻 Excel | 📅 Büro | 🛍️ Verkauf | 🤝 Vertrieb
 
 Willkommen auf meinem GitHub-Profil 
